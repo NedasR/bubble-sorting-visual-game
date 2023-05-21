@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\nedne\OneDrive\Desktop\games\bubble sorting visual game\RetroPool\main.cpp(59,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  RetroPool.vcxproj -> C:\Users\nedne\OneDrive\Desktop\games\bubble sorting visual game\x64\Debug\RetroPool.exe
